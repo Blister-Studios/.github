@@ -4,6 +4,14 @@ We are an independent game development studio dedicated to building high-speed, 
 
 ### What We're Building
 
+**Engram** Our flagship game and application engine, cross-platform between Windows, Mac & Linux, feature-full and production ready with:
+- The cross-platform Engram Editor
+- Lua scripting
+- Object hierarchy
+- 3D audio
+- Action-based input system
+- Backend-agnostic renderer
+
 **RiftRunner** Our current flagship project is *RiftRunner*, a blazing-fast, dimension-shifting platformer. Players must seamlessly swap between Light and Dark dimensions mid-air to phase through walls, trigger platforms, and maintain their kinetic momentum. 
 
 ### Join the Community
